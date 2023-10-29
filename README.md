@@ -1,3 +1,14 @@
+<p> main index page </p>
+<img width="906" alt="image" src="https://github.com/Bessan91/CRUD_Example/assets/109364643/ca2a7974-202e-4750-86a7-736f5d379a94">
+
+<hr>
+<p>For Creating Products </p>
+<img width="534" alt="image" src="https://github.com/Bessan91/CRUD_Example/assets/109364643/ccd8384b-3ffa-4def-b753-c4235d7c854b">
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
